@@ -1,0 +1,66 @@
+:root {
+	--font-size-s5: 0.8rem;
+	--font-size-s4: 1.0rem;
+	--font-size-s3: 1.2rem;
+	--font-size-s2: 1.4rem;
+	--font-size-s1: 1.6rem;
+	--font-size-md: 2rem;
+	--font-size-x1: 3rem;
+	--font-size-x2: 4rem;
+	--font-size-x3: 6rem;
+	--font-size-x4: 8rem;
+	--font-size-x5: 10rem;
+
+	--line-height-s5: 1.6rem;
+	--line-height-s4: 1.8rem;
+	--line-height-s3: 2.0rem;
+	--line-height-s2: 2.2rem;
+	--line-height-s1: 2.4rem;
+	--line-height-md: 2.8rem;
+	--line-height-x1: 3.8rem;
+	--line-height-x2: 4.8rem;
+	--line-height-x3: 6.8rem;
+	--line-height-x4: 8.8rem;
+	--line-height-x5: 10.8rem;
+
+	--color-primary: #ad1457;
+	--color-primary-font: #ffffff;
+	--color-primary-links: #d84315;
+
+	--color-secondary: #283593;
+	--color-secondary-font: #ffffff;
+	--color-secondary-links: #d84315;
+
+	--color-fade-dark-s3: rgba(0, 0, 0, 0.05);
+	--color-fade-dark-s2: rgba(0, 0, 0, 0.10);
+	--color-fade-dark-s1: rgba(0, 0, 0, 0.15);
+	--color-fade-dark-md: rgba(0, 0, 0, 0.20);
+	--color-fade-dark-x1: rgba(0, 0, 0, 0.25);
+	--color-fade-dark-x2: rgba(0, 0, 0, 0.30);
+	--color-fade-dark-x3: rgba(0, 0, 0, 0.35);
+
+	--color-fade-light-s3: rgba(255, 255, 255, 0.05);
+	--color-fade-light-s2: rgba(255, 255, 255, 0.10);
+	--color-fade-light-s1: rgba(255, 255, 255, 0.15);
+	--color-fade-light-md: rgba(255, 255, 255, 0.20);
+	--color-fade-light-x1: rgba(255, 255, 255, 0.25);
+	--color-fade-light-x2: rgba(255, 255, 255, 0.30);
+	--color-fade-light-x3: rgba(255, 255, 255, 0.35);
+
+	--color-light: #ededed;
+	--color-lighter: #ffffff;
+	--color-dark: #37474F;
+	--color-darker: #263238;
+
+	--padding-s2: .25rem;
+	--padding-s1: .5rem;
+	--padding-md: 1rem;
+	--padding-x1: 1.5rem;
+	--padding-x2: 2.0rem;
+
+	--nav-mobile: 260px;
+	--nav-tablet: 360px;
+	--nav-desktop: 420px;
+
+	--border-thickness: 2px;
+}

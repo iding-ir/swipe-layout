@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Abel';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		url('/assets/fonts/Abel-regular.woff2') format('woff2'),
+		url('/assets/fonts/Abel-regular.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Iran';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		url('/assets/fonts/IRANSansWeb_Medium.woff2') format('woff2'),
+		url('/assets/fonts/IRANSansWeb_Medium.woff') format('woff');
+}
